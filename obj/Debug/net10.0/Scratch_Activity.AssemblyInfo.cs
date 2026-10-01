@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Scratch_Activity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2392009fa48d863795340a94038f3bfd02f57f46")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebe06d87fa34281879b9bc746c9ae5c619b27950")]
 [assembly: System.Reflection.AssemblyProductAttribute("Scratch_Activity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Scratch_Activity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
